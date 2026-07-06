@@ -1,0 +1,65 @@
+---
+title: "How permissions work"
+description: "Roles, exceptions, and the review queue — the whole model in five minutes."
+---
+
+Everything in MCP Gateway reduces to one sentence:
+
+> **A person may do an action on a kind of record only if you said so.**
+
+The console gives you three instruments to say so efficiently.
+
+## 1. The permission grid
+
+Every permission is a cell in a grid: rows are kinds of records (contacts,
+deals, tickets, email drafts…), columns are the four things anyone can do to
+them — **read, create, update, delete**. Grids are shown per connected
+system, so HubSpot decisions and Gmail decisions never blur together.
+
+*[screenshot: permission grid for one integration]*
+
+A cell that isn't ticked doesn't merely "not work" — the ability is
+**invisible** to that person's AI. You can't misuse what you can't see.
+
+## 2. Roles — decide once, apply to many
+
+A role is a saved set of grid choices with a name: *Read-only*, *Sales rep*,
+*Support agent*. You assign a role to each person; changing the role later
+changes everyone who holds it, at once.
+
+**Exceptions** handle the real world: one person can differ from their role
+by individual cells — extra ability granted, or one removed. Exceptions are
+marked with a dot in the grid, so deviations are always visible at a glance
+rather than buried.
+
+<Note>
+Rule of thumb: if you're making the same exception for the third person,
+it wants to be a role.
+</Note>
+
+## 3. The review queue — nothing new sneaks in
+
+Connected systems evolve: an update to your CRM's integration can introduce
+brand-new abilities (a new "merge records" action, say). In most software,
+new abilities just… appear.
+
+Here they land in the **Review queue**, switched off, with a plain
+description and a flag when they deserve extra caution (destructive actions,
+sending on someone's behalf). They stay off until you explicitly approve
+them. The same applies to abilities that *changed shape* since you approved
+them — they lose their approval and return to the queue.
+
+*[screenshot: review queue]*
+
+## Everything is on the record
+
+Three kinds of events share one audit trail, in order:
+
+- every action the AI performed, under the name of the person it acted for
+- every action that was **denied**, and why
+- every rule change an admin made — who granted what to whom, when
+
+That combination answers the question audits actually ask: *not just what
+happened, but who made it possible.*
+
+*[screenshot: audit trail]*

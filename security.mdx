@@ -1,0 +1,90 @@
+---
+title: "Security overview"
+description: "For the technical reviewer: how isolation, encryption, and enforcement actually work."
+---
+
+This page is intentionally more technical than the rest of the docs — it's
+written for the person on your side who evaluates vendors.
+
+## Architecture in one paragraph
+
+MCP Gateway is a policy enforcement point between AI assistants (MCP
+clients such as Claude) and upstream business systems (HubSpot, Google
+Workspace, …). The assistant never receives upstream credentials; it
+authenticates to the gateway, and the gateway performs upstream calls with
+the individual user's own tokens, applying per-user policy to every request.
+
+## Identity & authentication
+
+- **End users and admins authenticate via OIDC SSO** against your identity
+  provider (Microsoft Entra ID, Google, or any spec-compliant OIDC issuer).
+  The gateway stores no passwords. Display names and identities come from
+  verified IdP claims.
+- **Assistant-to-gateway auth is OAuth 2.1** with PKCE and Dynamic Client
+  Registration; access tokens are short-lived, refresh tokens are
+  single-use and rotated on every refresh (replay attempts are rejected and
+  logged).
+- **Per-user upstream identity**: each user links their own account with
+  the upstream system via that system's OAuth consent. Actions execute
+  under the acting user's identity, preserving the upstream's own audit
+  attribution.
+
+## Authorization — two independent layers
+
+Policy is expressed as `resource:action` scopes, bundled into roles with
+per-user overrides. Enforcement happens twice on every request:
+
+1. **Visibility**: the tool list an assistant sees is generated per user —
+   abilities outside the user's grants are never advertised.
+2. **Execution**: every tool invocation re-checks policy server-side at
+   call time. Layer 1 is UX; layer 2 is the security boundary.
+
+**Fail-closed by construction**: an ability that is unknown, unreviewed, or
+whose schema changed since approval is neither visible nor callable, for
+anyone, until an admin classifies it.
+
+## Tenant isolation
+
+- Every tenant-owned row carries a tenant identifier, and **PostgreSQL
+  Row-Level Security** enforces isolation *below* the application: runtime
+  queries execute as an unprivileged database role that physically cannot
+  read another tenant's rows, even in the presence of an application bug.
+  Requests without an established tenant context receive zero rows.
+- Available deployment modes: shared multi-tenant SaaS, or private
+  deployment in your own cloud for organizations that require physical
+  separation.
+
+## Secrets & encryption
+
+- Upstream tokens are stored with **envelope encryption**: a per-tenant
+  data key (AES-256-GCM) encrypts vault rows; tenant data keys are sealed
+  by a master key held outside the database. Compromise of the database
+  alone exposes neither tokens nor keys; rotating one tenant's key touches
+  only that tenant.
+- Transport is TLS end to end. Assistant-facing tokens are opaque
+  (non-JWT) bearer tokens with server-side state.
+
+## Auditability
+
+An append-only audit trail records, per tenant: every allowed and denied
+tool invocation (with the acting user and arguments), every sign-in, and
+every policy mutation (role/permission/catalog changes, attributed to the
+admin who made them). The trail is exposed in the console and available
+for export.
+
+## Questions we expect
+
+**Can the AI act when the user couldn't?** No — actions run on the acting
+user's own upstream token, bounded by both their gateway policy and their
+upstream permissions.
+
+**What happens when an integration adds new capabilities?** They enter the
+review queue in a blocked state and are inert until explicitly approved
+(see [How permissions work](/guides/permissions)).
+
+**Can we bring our own OAuth app / IdP?** Yes — enterprise tenants can use
+their own provider app registrations and their own OIDC issuer.
+
+**Data retention?** The gateway stores policy, identities, tokens (encrypted)
+and audit events — it does not persist your business data passing through
+tool calls beyond the audit record of the call itself.

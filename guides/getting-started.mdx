@@ -1,0 +1,109 @@
+---
+title: "Getting started (for admins)"
+description: "From first sign-in to your team's first governed AI action, in about 15 minutes."
+---
+
+This guide is for the person who administers the workspace — typically
+whoever owns IT, operations, or the CRM. No technical background needed.
+
+<Note>
+During the pilot phase, we create your workspace and send you a sign-in
+link. If you don't have yours yet, contact us.
+</Note>
+
+## 1. Sign in to your console
+
+Open the console link we sent you and click **Sign in with SSO**. Use your
+normal work account (Microsoft or Google) — there is no separate password to
+manage.
+
+*[screenshot: console sign-in page]*
+
+## 2. Connect your first system
+
+Open **Integrations** in the sidebar and click **Connect** on the system you
+use — for example HubSpot.
+
+You'll be taken to HubSpot's own consent screen (the same kind you've seen
+when connecting any two business tools). Approve it, and you're back in the
+console.
+
+*[screenshot: integrations page with HubSpot card]*
+
+<Note>
+Connecting a system does **not** give the AI any abilities yet. It only lets
+the gateway see what abilities *exist*, so you can decide about them.
+</Note>
+
+## 3. Review what the AI could do — and decide
+
+Every ability the connected system offers appears in the **Review queue**,
+switched off. This is deliberate: nothing works until you've looked at it.
+
+For each item, you'll see what it does in plain terms — for example:
+
+- *List contacts* — reads contact records
+- *Delete contact* — **removes** a contact record
+- *Send email* — sends on a person's behalf
+
+Click **Approve** on the ones your team should ever be able to use, and
+**Keep blocked** on the ones they shouldn't. You can change your mind any
+time.
+
+*[screenshot: review queue with pending items]*
+
+## 4. Create roles
+
+Open **Roles**. A role is a job description in permission form — you define
+it once and assign it to many people.
+
+A good starter set:
+
+| Role | What it allows |
+| --- | --- |
+| Read-only | Look things up. Change nothing. |
+| Sales rep | Read and update contacts, companies, and deals. No deleting. |
+| Ops admin | Everything you approved in step 3. |
+
+Click into a role to set its permissions on the grid — each row is a kind of
+record, each column an action (read / create / update / delete). Tick what
+the role allows.
+
+*[screenshot: role permission grid]*
+
+## 5. Invite your team
+
+Open **Users** and add each person by their **work email**. Pick their role.
+That's the whole form — their name fills in automatically the first time
+they sign in.
+
+If one person needs an exception ("like Sales rep, but she may also
+delete"), open that person and adjust the grid — exceptions are marked with
+a dot so you can always see who deviates from their role, and why the audit
+trail says so.
+
+*[screenshot: users page with a person selected]*
+
+## 6. Give your team the connector
+
+Each workspace has a **connector address** (we send yours with the
+workspace). Share it with your team along with the
+[end-user guide](/guides/end-users) — adding it to Claude takes them about
+two minutes, and they sign in with the same work account they always use.
+
+## You're done — here's what you got
+
+From this moment, every single action the AI attempts is checked against
+your rules, in real time:
+
+- A sales rep asking Claude to *update a deal* — allowed, done, logged.
+- The same rep asking Claude to *delete a contact* — **the delete ability
+  isn't even visible to them.** Nothing to misuse.
+- Any of it, any time — visible under **Audit**: who, what, when, allowed
+  or denied.
+
+*[screenshot: audit trail]*
+
+<Card title="Next: how permissions work" icon="sliders" href="/guides/permissions">
+  Roles, exceptions, and the review queue — the mental model in five minutes.
+</Card>
