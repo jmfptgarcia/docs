@@ -20,6 +20,10 @@ Practical planning numbers, based on published amounts:
 | Already have your own B.A.A. bib (qualifier) and join a team | **$1,000 – $5,400**, clustered at **$3,000 – $4,000** |
 | Are registered and want the B.A.A.'s own Climate Crew | **$1,500** |
 
+> **If fundraising $10,000 isn't viable, read the International Tour Operator section below
+> first.** Official B.A.A. tour operators sell guaranteed entries with no qualifying time and no
+> fundraising — Spain/Portugal's operator prices the bib at €700 plus a required hotel package.
+
 The **most common single figure is $10,000** for a charity bib. Top-demand teams ask $12,000–$15,000.
 On top of the fundraising commitment you also pay the B.A.A. entry fee yourself (charities quoted
 **$375–$395** for the 2026 race; the 2027 fee has not been published).
@@ -101,6 +105,58 @@ have a B.A.A. entry and join the team voluntarily, usually at a much lower minim
    $10,000–$15,000 figures come from the marquee teams. Smaller organizations on the 193-member list
    frequently set minimums well below that but rarely publish them — you have to email and ask.
 5. **Ask two questions in every email:** the charity-bib minimum, and whether an interim milestone applies.
+
+---
+
+## Cheaper route for non-qualifiers: official International Tour Operators
+
+**If you can't or won't fundraise $10,000, the charity program is not the cheapest way in.** The B.A.A.
+authorizes [40 official International Tour Operators](https://www.baa.org/races/boston-marathon/info-for-athletes-international-tour-operators/)
+(9 Asia, 20 Europe, 3 Oceania, 8 Americas). They receive an allocation of guaranteed entries requiring
+**no qualifying time and no fundraising** — you buy the bib as part of a travel package.
+
+Worked example — [Endeavor Maratones Internacionales](https://endeavortravel.com/maratones/boston/),
+the official operator for **Spain and Portugal** (listed on the B.A.A. page as "Portugan", a typo):
+
+| Component | Price |
+| --- | --- |
+| Guaranteed bib ("Dorsal garantizado para el corredor") | **€700** |
+| Hotel-only package, 4 nights, quad room | €1,435 pp |
+| Hotel-only package, 4 nights, double room | €1,985 pp |
+| Hotel-only package, 4 nights, single room | €2,830 |
+| Flight + hotel package, 4 nights, double room | €2,810 pp |
+
+**Floor for hotel + bib, sharing a room: roughly €2,135–2,685, flights excluded.** Prices are from the
+2026 edition (April 17, 2026 departure); 2027 pricing will differ but the structure is stable. Endeavor
+also splits payment into four installments (€800 + bib on booking, then €800 by Sept 30, €800 by Dec 31,
+balance by Feb 28).
+
+Compare: **€700 marginal cost for the bib, with no personal liability**, versus a **$7,500–$15,000
+fundraising commitment backed by your credit card**. If you'd be paying for a Boston hotel regardless,
+the tour operator route is dramatically cheaper.
+
+Conditions and caveats:
+
+- **Operators are country-scoped and generally restricted to residents of that country.** The B.A.A.
+  describes Active Holiday Company, for instance, as permitted to offer guaranteed entries "to Indian
+  and UAE residents only." Check your own country's operator on the B.A.A. list.
+- **The bib cannot be bought on its own** — the B.A.A. requires operators to bundle entry with
+  accommodation, which is what sets the effective floor.
+- **You register yourself.** Per the B.A.A.: "all participants must submit their own individual event
+  registration and sign the event participant waiver; tour operators cannot submit registration on the
+  participant's behalf." The operator supplies the entry; the paperwork is yours.
+- Allocations are finite and sell out; these packages typically go on sale well before race year.
+
+### Full ranking of entry routes for a non-qualifier
+
+| Route | Real cost | Notes |
+| --- | --- | --- |
+| **Official tour operator** | ~€700 bib + required hotel package | No BQ, no fundraising, no liability; residency-scoped |
+| **Charity bib** | $7,500–$15,000 fundraised + entry fee | You are liable for any shortfall |
+| **Qualify** | Entry fee only (~$375–$395) | Cheapest by far, but the 2027 window closes Sept 18, 2026 — realistically a 2028+ plan |
+
+If the underlying goal is "run a World Marathon Major" rather than Boston specifically, Chicago, Berlin
+and London all run ballots that cost only an entry fee if drawn — no qualifying time, no fundraising.
 
 ---
 
