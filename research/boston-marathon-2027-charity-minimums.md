@@ -21,8 +21,9 @@ Practical planning numbers, based on published amounts:
 | Are registered and want the B.A.A.'s own Climate Crew | **$1,500** |
 
 > **If fundraising $10,000 isn't viable, read the International Tour Operator section below
-> first.** Official B.A.A. tour operators sell guaranteed entries with no qualifying time and no
-> fundraising — Spain/Portugal's operator prices the bib at €700 plus a required hotel package.
+> first.** Official B.A.A. tour operators hold contingents for runners who don't meet the qualifying
+> standard — no qualifying time, no fundraising, no personal liability. Hotel + guaranteed bib without
+> flights runs **€2,135–2,700 / ~CHF 2,710**; the bib component alone is **€700–CHF 950**.
 
 The **most common single figure is $10,000** for a charity bib. Top-demand teams ask $12,000–$15,000.
 On top of the fundraising commitment you also pay the B.A.A. entry fee yourself (charities quoted
@@ -146,6 +147,51 @@ Conditions and caveats:
   registration and sign the event participant waiver; tour operators cannot submit registration on the
   participant's behalf." The operator supplies the entry; the paperwork is yours.
 - Allocations are finite and sell out; these packages typically go on sale well before race year.
+
+### Swiss residents (and dual Swiss/Portuguese nationals)
+
+Switzerland has **three** operators on the B.A.A. list, and a Portuguese passport opens the Iberian
+operators as a second channel. Of the three Swiss entries, only Albis Reisen has a live Boston product:
+DER Touristik Suisse's link (`reise-sport.ch`) now redirects to a dead Kuoni path, and Tourisme Pour Tous
+(`hotelplan-suisse.ch`) shows no Boston offering.
+
+[**Albis Reisen**](https://www.albisreisen.ch/reisen/detail/marathon-ultras/boston-marathon/) states the
+key fact outright: *"Wir haben ein kleines Kontingent für Läufer, welche die Qualifikationskriterien
+nicht erfüllen"* — a small contingent for runners who don't meet the qualifying criteria. Their price
+list separates qualified from non-qualified runners, which isolates the cost of the bib itself:
+
+| Sheraton Boston, 4 nights, double | Price |
+| --- | --- |
+| **Non-qualified runner** (bib included) | CHF 3,710 |
+| Qualified runner or non-runner (no bib) | CHF 2,760 |
+| **→ Implied cost of the guaranteed bib** | **CHF 950** |
+| Single occupancy, non-qualified | CHF 4,670 |
+| Reduction for dropping SWISS flights + airport transfers | **−CHF 1,000 pp** |
+
+**Hotel + bib, no flights, shared double, 4 nights: CHF 3,710 − 1,000 = ~CHF 2,710.**
+
+Three-way comparison for hotel + guaranteed bib, 4 nights, flights excluded:
+
+| Operator | Country scope | Hotel + bib | Bib alone |
+| --- | --- | --- | --- |
+| [Endeavor](https://endeavortravel.com/maratones/boston/) | Spain, Portugal | **€2,135** (quad) / €2,265 (triple) / €2,685 (double) | **€700** |
+| [Geosport](https://geosport.es/viajes/maraton-de-boston/) | Spain | €2,695 (double king), €2,845 (double-double) | bundled |
+| [Albis Reisen](https://www.albisreisen.ch/reisen/detail/marathon-ultras/boston-marathon/) | Switzerland | ~CHF 2,710 (double) | CHF 950 |
+
+The three cluster tightly around **€2,650–2,700 / CHF 2,710** for a shared double — independent
+confirmation that this is the real market rate. Endeavor's triple and quad rooms are the cheapest route
+found anywhere at **€2,135–2,265**, and Endeavor's bib is the cheapest single component at €700
+(~CHF 650) versus Albis's CHF 950.
+
+Caveats specific to this route:
+
+- **Only Geosport's page is confirmed 2027 priced.** Albis Reisen says *"Wir informieren in Kürze über
+  unser Programm fürs 2027"* — 2027 not yet published, and their page still shows the 2026 qualifier
+  window (Sept 8–12, 2025) rather than the 2027 one. Endeavor's figures are 2026-dated.
+- **Eligibility may be residency-based, not nationality-based.** Whether a Swiss resident with a
+  Portuguese passport can buy through Endeavor is the open question — worth asking both, since it is
+  worth a few hundred francs.
+- **Contingents are small and sell out**, and the bib cannot be unbundled from accommodation.
 
 ### Full ranking of entry routes for a non-qualifier
 
