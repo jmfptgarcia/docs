@@ -104,6 +104,39 @@ have a B.A.A. entry and join the team voluntarily, usually at a much lower minim
 
 ---
 
+## Outreach contacts
+
+Verified contact addresses — each was read off the organization's own page, not guessed from a naming
+pattern. Outreach ask for July 2026 is **"add me to the 2027 interest list"**, not "what is your 2027
+minimum": until the B.A.A. announces bib allocations (~Oct 1), most teams genuinely do not know their
+number yet, so the useful move now is getting in line.
+
+| Team | Contact | Why it's worth asking |
+| --- | --- | --- |
+| **CharityTeams** (Susan Hurley) | Susan@CharityTeams.com | Highest leverage — manages a large block of Boston teams incl. Team BPL and Team Hoyt; one email covers many, including small teams that never publish minimums |
+| Dana-Farber (DFMC) | dfmc@dfci.harvard.edu | Invitational minimum unpublished; large bib allocation |
+| Massachusetts General Hospital | mghmarathon@mgh.harvard.edu | Charity-bib minimum unpublished; 2027 interest form live |
+| Cradles to Crayons (Anna Fantozzi) | afantozzi@cradlestocrayons.org | 2027 interest list explicitly open |
+| Trinity Boston Connects | fkelly@trinityconnects.org | States 2027 applications open Fall 2026 |
+| Tedy's Team | info@tedysteam.org | $10,000 in 2026 |
+| Project Purple | info@projectpurple.org | 2027 page live, figure still carried from 2026 |
+| Boston Medical Center (Team BMC) | Team.BMC@bmc.org | No minimum published anywhere |
+
+**Form-only, no published email** — sign up directly, there is no address to write to:
+
+- Boston Children's (Miles for Miracles) — email-list signup at
+  [giving.childrenshospital.org/events/run/boston-marathon](https://giving.childrenshospital.org/events/run/boston-marathon)
+- Mass Eye and Ear (Team Eye and Ear) — "Join Our Interest List for 2027" at
+  [masseyeandear.org/events/marathon](https://masseyeandear.org/events/marathon)
+- Spaulding (Race for Rehab) — apply via [raceforrehab.org/app](https://raceforrehab.org/app/); lowest
+  confirmed charity-bib minimum at $7,500
+
+**Don't bulk-email the 193-org roster.** Only ~8 have discoverable marathon contacts; the rest need
+per-site digging, and a mass ask to 175 nonprofits reads as spam and returns "TBD" anyway. Target the
+list above now, then work down the roster in October once allocations are known.
+
+---
+
 ## Appendix: the 193-member 2026 Official Charity Program roster
 
 The 2027 roster is not out yet. Historically the list changes only modestly year to year, so this is the
