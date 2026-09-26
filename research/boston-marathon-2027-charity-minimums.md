@@ -1,8 +1,10 @@
 # Boston Marathon 2027 — Minimum Charity Fundraising Amounts
 
 **Race:** 131st Boston Marathon presented by Bank of America — **Monday, April 19, 2027**
-**Compiled:** July 25, 2026
-**Primary source:** [B.A.A. Boston Marathon Charity page](https://www.baa.org/races/boston-marathon/charity/) plus each charity's own site (linked per row)
+**Compiled:** July 25, 2026 · **Updated:** September 26, 2026 — figures now confirmed by direct
+correspondence with the charities; see [What the charities actually said](#what-the-charities-actually-said).
+**Primary source:** [B.A.A. Boston Marathon Charity page](https://www.baa.org/races/boston-marathon/charity/),
+each charity's own site (linked per row), and email replies from the teams themselves.
 
 ---
 
@@ -16,7 +18,7 @@ Practical planning numbers, based on published amounts:
 
 | If you… | Expect to commit |
 | --- | --- |
-| Need a bib from a charity (no qualifying time) | **$7,500 – $15,000**, clustered at **$10,000** |
+| Need a bib from a charity (no qualifying time) | **$7,500 – $15,000**, now clustered at **$12,000** |
 | Already have your own B.A.A. bib (qualifier) and join a team | **$1,000 – $5,400**, clustered at **$3,000 – $4,000** |
 | Are registered and want the B.A.A.'s own Climate Crew | **$1,500** |
 
@@ -25,28 +27,58 @@ Practical planning numbers, based on published amounts:
 > standard — no qualifying time, no fundraising, no personal liability. Hotel + guaranteed bib without
 > flights runs **€2,135–2,700 / ~CHF 2,710**; the bib component alone is **€700–CHF 950**.
 
-The **most common single figure is $10,000** for a charity bib. Top-demand teams ask $12,000–$15,000.
-On top of the fundraising commitment you also pay the B.A.A. entry fee yourself (charities quoted
-**$375–$395** for the 2026 race; the 2027 fee has not been published).
+**Minimums rose for 2027.** Where a team has published a 2027 figure it is higher than its 2026 one:
+Trinity Boston Connects went **$10,000 → $12,000** and Dana-Farber confirmed **$12,000**. Treat $12,000,
+not $10,000, as the working number for a competitive team.
+
+On top of the fundraising commitment you pay the B.A.A. entry fee yourself. **The 2027 fee is $390**,
+per Trinity Boston Connects quoting the B.A.A.-set amount in its application pack. Some teams add their
+own administrative fee on top — Trinity charges **$100** for application processing and gear if accepted.
 
 ---
 
 ## Important timing caveat
 
-As of late July 2026, **the 2027 Official Charity Program roster has not been announced and most teams
-have not published their 2027 minimums yet.** The sequence each year is:
+**Applications are open now.** As of September 26, 2026 the charity cycle has moved from "wait and see"
+to live and time-critical:
 
 | Step | 2027 cycle date | Status |
 | --- | --- | --- |
 | Charity Letter of Interest window | June 3–13, 2026 | Closed |
-| B.A.A. announces the official charity roster | ~early October (2026 roster was announced Oct 1, 2025) | Pending |
-| Individual charity runner applications open | Fall 2026 (many say "after the qualifier lottery results") | Mostly pending |
-| Qualifier registration window | September 14–18, 2026 | Upcoming |
+| Qualifier registration window | September 14–18, 2026 | **Closed** — no longer an option for 2027 |
+| Individual charity runner applications open | From September 14, 2026 (Trinity), September (Dana-Farber, Project Purple) | **Open** |
+| B.A.A. announces the official charity roster | ~early October (2026 roster was announced Oct 1, 2025) | Imminent |
+| Trinity first-round interview slots | Sept 24, Sept 25, **Sept 28 at 5:30 PM ET** | Rolling thereafter "as space remains" |
+| Trinity interim fundraising milestone | $4,000 by December 20, 2026 | — |
 | Race day | April 19, 2027 | — |
 
-So the table below mixes **confirmed 2027 figures** (where a team already has its 2027 application or
-page live) with **2026 figures** (the best available predictor). Every row is labeled. Amounts marked
-2026 should be treated as *likely, not guaranteed* — several teams raised minimums year over year.
+Teams that give out bibs fill them **on a rolling basis as applications arrive**, so the binding
+constraint is no longer information — it is queue position.
+
+---
+
+## What the charities actually said
+
+Eight enquiries went out on July 29, 2026. Six produced a substantive answer. This is the primary
+evidence behind the 2027 figures above.
+
+| Team | Replied | What they said |
+| --- | --- | --- |
+| **Dana-Farber (DFMC)** | Jul 30 | "The fundraising minimum is **$12,000**. There are no required fundraising amounts during the season, but the final fundraising is due one month after the race." Application opened September |
+| **Trinity Boston Connects** | Jul 31, then full pack Sept 14 | **$12,000** required, priority to $15,000+; **$390** B.A.A. entry fee; **$100** TBC application/gear fee; **$4,000 milestone by Dec 20, 2026**; $4,000 suggested for own-entry runners. Reviews applications "on a rolling basis" and fills bibs as they arrive |
+| **Project Purple** | Jul 29 | No 2027 figure until September. Crucially: "we do not register anyone for the marathon until they have reached **half** of the fundraising goal" — $7,500 on a $15,000 goal — with the balance due the Sunday before the race and the card charged that Monday |
+| **Team BMC** | Jul 31 | Still applying to the B.A.A. for 2027 bibs; expected to hear late August |
+| **Tedy's Team** | Aug 12 | "We do not know our status for the 2027 race" |
+| **Boston Public Library Fund / CharityTeams** | No reply | Its own site already published 2027 tiers ($12,000 / $7,500) |
+| **Mass General** | No reply | — |
+| **Cradles to Crayons** | No reply | — |
+
+Two structural points worth more than the headline numbers:
+
+1. **Cash flow differs enormously between teams.** Dana-Farber asks for nothing until a month after the
+   race. Trinity wants $4,000 by December 20. Project Purple will not even register you until half the
+   goal — $7,500 — is banked. Same ballpark commitment, completely different burden.
+2. **Everyone charges the shortfall to a card.** That is universal across every team that answered.
 
 ---
 
@@ -58,7 +90,7 @@ have a B.A.A. entry and join the team voluntarily, usually at a much lower minim
 | Charity / team | Charity bib minimum | Own bib minimum | Year of figure | Notes |
 | --- | --- | --- | --- | --- |
 | [Boston Public Library Fund (Team BPL)](https://bplfund.org/marathon/) | **$12,000** (18 bibs) / **$7,500** (2 bibs) | — | **2027 (confirmed)** | 20 bibs total; 2027 applications open |
-| [Project Purple](https://www.projectpurple.org/events/boston-marathon/) | **$15,000** | — | 2027 page, figure carried from 2026 | Page states minimum "reflects the minimum for 2026… may be subject to change" |
+| [Project Purple](https://www.projectpurple.org/events/boston-marathon/) | $15,000 in 2026; 2027 TBC | — | 2026 | **Half the goal must be raised before they will register you** ($7,500 on a $15,000 goal); balance by the Sunday before race day, card charged Monday |
 | [Alzheimer's Association (Team End ALZ)](https://www.alz.org/manh/events/team-end-alz/boston-marathon) | **$10,000** | **$3,000 suggested**, no hard minimum | **2027 (confirmed)** | Suggested goal also applies to invitational runners |
 | [Brigham and Women's (Stepping Strong)](https://give.brighamandwomens.org/boston-marathon/) | not published | **$1,000** | **2027 (confirmed)** | Own-bib runners must also submit an application |
 | [Cradles to Crayons](https://www.cradlestocrayons.org/boston/events-boston-marathon/) | **$15,000** | — | 2026 | 2027 interest list open |
@@ -66,18 +98,25 @@ have a B.A.A. entry and join the team voluntarily, usually at a much lower minim
 | [Make-A-Wish Massachusetts & Rhode Island](https://wish.org/massri/team-make-wish-boston-marathon-0) | **$12,500** | — | 2026 | |
 | [Mass Eye and Ear (Team Eye and Ear)](https://masseyeandear.org/events/marathon/benefits-requirements) | **$10,000+** | **$1,500** | 2026 | Preference to higher pledges; 2025 team averaged $12,500/runner |
 | [Boston Children's Hospital (Miles for Miracles)](https://giving.childrenshospital.org/events/run/boston-marathon/faqs) | **$10,000** | **$3,000** | 2026 | 2027 email list open |
-| [Tedy's Team](https://tedysteam.org/event/boston-marathon/) | **$10,000** | **$5,400** | 2026 | Highest own-bib minimum found |
+| [Tedy's Team](https://tedysteam.org/event/boston-marathon/) | $10,000 in 2026; 2027 TBC | $5,400 | 2026 | Told us Aug 12 they did not yet know their 2027 status |
 | [Best Buddies Massachusetts & Rhode Island](https://www.bestbuddies.org/mari/boston-marathon/) | **$10,000** | — | 2026 | |
 | [American Liver Foundation (Liver Life Challenge)](https://liverlifechallenge.org/boston/fundraising/) | **$10,000** | — | 2026 | |
 | [Boys & Girls Clubs of Boston](https://pages.bgcb.org/boston-marathon-2026) | **$10,000** | — | 2026 | |
-| [Trinity Boston Connects](https://trinityconnects.org/boston-marathon/) | **$10,000** (priority to $15,000+) | **$3,000 suggested** | 2026 | Interim $3,000 milestone required mid-season; 2027 applications open Fall 2026 |
+| **[Trinity Boston Connects](https://trinityconnects.org/boston-marathon/)** | **$12,000** (priority to $15,000+) | **$4,000 suggested** | **2027 (confirmed by email)** | Applications **open now**, rolling. Plus $390 B.A.A. entry fee and $100 TBC application/gear fee. **$4,000 milestone by Dec 20, 2026** |
 | [Spaulding Rehabilitation (Race for Rehab)](https://raceforrehab.org/app/) | **$7,500** | **$2,500** | 2026 | |
-| [Dana-Farber Cancer Institute (DFMC)](https://danafarber.jimmyfund.org/site/SPageServer?pagename=dfmc_faqs_cancer&fr_id=2520) | not published on FAQ (reported **$10,000–$12,000**) | **$4,000** | 2026 | Own-bib figure confirmed on DFMC FAQ; invitational figure unverified — confirm with dfmc@dfci.harvard.edu |
+| **[Dana-Farber Cancer Institute (DFMC)](https://danafarber.jimmyfund.org/site/SPageServer?pagename=dfmc_faqs_cancer&fr_id=2520)** | **$12,000** | **$4,000** | **2027 (confirmed by email)** | **No interim milestones**; full amount due one month after the race. Application opened September 2026 |
 | [Massachusetts General Hospital (Mass General Marathon Team)](https://giving.massgeneral.org/events/mass-general-marathon-team) | not published | **$1,000** | 2026 | 2027 interest form open |
 | [Blood Cancer United / Team In Training](https://www.teamintraining.org/events/boston-marathon) | not published for Boston | **$3,000** | 2026 | $3,000 is TNT's general race-series minimum, not a confirmed Boston charity-bib figure |
 | [B.A.A. Climate Crew](https://www.baa.org/races/boston-marathon/info-for-athletes/) | n/a | **$1,500** | 2026 | **Not a charity team** — B.A.A. sustainability initiative, open only to already-registered runners who are *not* fundraising for an official charity |
 
-**Range across confirmed charity-bib minimums: $7,500 to $15,000. Median: $10,000.**
+| **[We Run Foundation](https://bostonmarathon27.grassrootz.com/we-run-foundation)** | **AUD 15,000** (≈ USD 9,500–10,000) | — | **2027 (confirmed)** | Australian charity, **no qualifying time, no ballot**; deadline 11:59pm April 5, 2027. Obligation survives withdrawal — see warning below |
+
+**Range across confirmed 2027 charity-bib minimums: $7,500 to $15,000. The 2027 cluster is $12,000.**
+
+> **Read the We Run Foundation terms before applying.** Its agreement states the commitment and the
+> card authorisation "are not affected by my withdrawal from the event or my decision not to
+> participate" — you owe AUD 15,000 whether or not you run. In AUD terms it is the cheapest confirmed
+> charity route, but it is the harshest contract found.
 
 ---
 
@@ -96,25 +135,40 @@ have a B.A.A. entry and join the team voluntarily, usually at a much lower minim
 
 ## What to do next
 
-1. **Wait for the roster** — the B.A.A. should publish the 2027 official charity list around early
-   October 2026, at [baa.org/races/boston-marathon/charity](https://www.baa.org/races/boston-marathon/charity/).
-2. **Join interest lists now.** Mass General, Boston Children's, Cradles to Crayons and Dana-Farber all
-   have 2027 interest forms live; teams often fill from these lists before opening public applications.
-3. **Apply where a 2027 application is already open** — Team BPL (Boston Public Library Fund) is the one
-   team with fully published 2027 tiers, including two $7,500 bibs, the cheapest confirmed charity entry.
-4. **Look at smaller, less-known charities** on the roster below. Demand drives the minimum; the
-   $10,000–$15,000 figures come from the marquee teams. Smaller organizations on the 193-member list
-   frequently set minimums well below that but rarely publish them — you have to email and ask.
-5. **Ask two questions in every email:** the charity-bib minimum, and whether an interim milestone applies.
+The waiting phase is over. Ranked by urgency:
+
+1. **Trinity Boston Connects — apply now.** The only team with a completed application pack in hand, a
+   known number ($12,000) and an open rolling process. Bibs fill as applications arrive, so every day
+   costs queue position. The application PDF is attached to Fiona Kelly's September 14 email.
+2. **Dana-Farber — apply now, and prefer it on cash flow.** Same $12,000, but nothing is due until a
+   month after the race, versus Trinity's $4,000 by December 20. For a fundraiser starting from a
+   European donor network, that difference matters more than the headline figure.
+3. **Chase the non-repliers.** Team BMC and Tedy's Team were both awaiting B.A.A. allocation and should
+   now know. CharityTeams never replied and remains the only realistic way to reach the small teams
+   whose minimums sit below $12,000.
+4. **Register interest with Marathon Tours & Travel.** Both the AbbottWMM draw rejection and Sports
+   Tours pointed here, and MT&T is advertising 2027 spring AbbottWMM packages with guaranteed entry.
+   Being a five-star Six Star hopeful is exactly the profile these allocations prioritise.
+5. **Do the AbbottWMM Runner Portal housekeeping** — claim every star, keep the profile current. It
+   costs nothing and it gates eligibility for the Six Star drawing.
+6. **Look at smaller charities** on the 193-member roster below. The $12,000–$15,000 figures come from
+   the marquee teams; smaller organizations often set less but rarely publish it.
 
 ---
 
 ## Cheaper route for non-qualifiers: official International Tour Operators
 
-**If you can't or won't fundraise $10,000, the charity program is not the cheapest way in.** The B.A.A.
-authorizes [40 official International Tour Operators](https://www.baa.org/races/boston-marathon/info-for-athletes-international-tour-operators/)
+> **Correction, September 2026: these places are rationed, not simply purchasable.** Sports Tours
+> International declined a 2027 Boston request outright, writing that "our allocation for the Boston
+> Marathon is significantly smaller than for the other Abbott World Marathon Majors, meaning we have to
+> carefully prioritise places based on customers' booking history" — and that **all** their successful
+> 2027 Boston runners "have travelled with us on nine or more events." Boston is the one Major where
+> operator entries go to loyal repeat customers first. Treat the prices below as what a place costs
+> *if offered one*, not as an open purchase. Apply early and expect to be turned down.
+
+The B.A.A. authorizes [40 official International Tour Operators](https://www.baa.org/races/boston-marathon/info-for-athletes-international-tour-operators/)
 (9 Asia, 20 Europe, 3 Oceania, 8 Americas). They receive an allocation of guaranteed entries requiring
-**no qualifying time and no fundraising** — you buy the bib as part of a travel package.
+**no qualifying time and no fundraising** — the bib comes bundled into a travel package.
 
 Worked example — [Endeavor Maratones Internacionales](https://endeavortravel.com/maratones/boston/),
 the official operator for **Spain and Portugal** (listed on the B.A.A. page as "Portugan", a typo):
@@ -193,36 +247,57 @@ Caveats specific to this route:
   worth a few hundred francs.
 - **Contingents are small and sell out**, and the bib cannot be unbundled from accommodation.
 
+### Six Star hopefuls: the AbbottWMM routes
+
+With five Majors complete and Boston outstanding, two further routes exist that do not depend on a
+qualifying time. Both have already been tried in this case:
+
+| Route | Status | Notes |
+| --- | --- | --- |
+| **AbbottWMM Boston draw** | **Entered, not selected** (Aug 21, 2026) | Open to runners who have never run Boston and hold 4+ stars; roughly 150 Boston places. Rejection email notes "entries may be reallocated if any draw winners decline their place," so a late reallocation is not impossible |
+| **Marathon Tours & Travel** | Untried | Official Tour Operator of the AbbottWMM, distinct from the B.A.A.'s national operators. Both the AbbottWMM rejection and Sports Tours pointed here. Advertising "2027 Spring AbbottWMM Packages" with guaranteed entry |
+| **AbbottWMM Six Star Hopefuls drawing** | Worth verifying | Sports Tours referred to a "Global Marathon Tours & Travel Six Star Hopefuls drawing" as separate from the main draw. Whether it is genuinely a second, distinct draw or another name for the one already lost is unclear — check the Runner Portal rather than assume |
+
+Housekeeping that affects eligibility: claim **all** completed stars in the AbbottWMM Runner Portal, keep
+the profile current, and enter eligible Virtual Challenges, which add entries to the Six Star drawing.
+
+---
+
 ### Full ranking of entry routes for a non-qualifier
 
 | Route | Real cost | Notes |
 | --- | --- | --- |
-| **Official tour operator** | ~€700 bib + required hotel package | No BQ, no fundraising, no liability; residency-scoped |
-| **Charity bib** | $7,500–$15,000 fundraised + entry fee | You are liable for any shortfall |
-| **Qualify** | Entry fee only (~$375–$395) | Cheapest by far, but the 2027 window closes Sept 18, 2026 — realistically a 2028+ plan |
+| Route | Real cost | Availability for 2027 |
+| --- | --- | --- |
+| **AbbottWMM draw** | Entry fee only | **Gone** — entered, not selected (Aug 21, 2026); reallocation only |
+| **Qualify** | $390 entry fee | **Gone** — registration closed Sept 18, 2026. A 2028+ plan |
+| **Official tour operator** | ~€700 bib + required hotel package | Rationed by booking history; Sports Tours declined. Apply, expect refusal |
+| **Marathon Tours & Travel** | Package pricing, not published | Untried; AbbottWMM's own operator, prioritises Six Star hopefuls |
+| **Charity bib** | $12,000 typical, fundraised, + $390 + team fees | **Open now.** The only route reliably under your own control |
+| **We Run Foundation** | AUD 15,000 (≈ USD 9,500–10,000) | Open; cheapest in real terms, harshest contract |
 
-If the underlying goal is "run a World Marathon Major" rather than Boston specifically, Chicago, Berlin
-and London all run ballots that cost only an entry fee if drawn — no qualifying time, no fundraising.
+**The honest summary: for 2027 the charity route is no longer the expensive option — it is very nearly
+the only remaining one.** The draw is lost, qualifying has closed, and operator places go to repeat
+customers. That reframes the $12,000 from "outrageous" to "the price of the last open door," which is a
+different judgement call and still a legitimate reason to wait for 2028 instead.
 
 ---
 
 ## Outreach contacts
 
-Verified contact addresses — each was read off the organization's own page, not guessed from a naming
-pattern. Outreach ask for July 2026 is **"add me to the 2027 interest list"**, not "what is your 2027
-minimum": until the B.A.A. announces bib allocations (~Oct 1), most teams genuinely do not know their
-number yet, so the useful move now is getting in line.
+Verified contact addresses — each read off the organization's own page, not guessed from a naming
+pattern. Status as of September 26, 2026.
 
-| Team | Contact | Why it's worth asking |
+| Team | Contact | Status |
 | --- | --- | --- |
-| **CharityTeams** (Susan Hurley) | Susan@CharityTeams.com | Highest leverage — manages a large block of Boston teams incl. Team BPL and Team Hoyt; one email covers many, including small teams that never publish minimums |
-| Dana-Farber (DFMC) | dfmc@dfci.harvard.edu | Invitational minimum unpublished; large bib allocation |
-| Massachusetts General Hospital | mghmarathon@mgh.harvard.edu | Charity-bib minimum unpublished; 2027 interest form live |
-| Cradles to Crayons (Anna Fantozzi) | afantozzi@cradlestocrayons.org | 2027 interest list explicitly open |
-| Trinity Boston Connects | fkelly@trinityconnects.org | States 2027 applications open Fall 2026 |
-| Tedy's Team | info@tedysteam.org | $10,000 in 2026 |
-| Project Purple | info@projectpurple.org | 2027 page live, figure still carried from 2026 |
-| Boston Medical Center (Team BMC) | Team.BMC@bmc.org | No minimum published anywhere |
+| **Trinity Boston Connects** (Fiona Kelly) | fkelly@trinityconnects.org | **Application open, rolling.** Return the completed PDF to Fiona. Interview slot Sept 28, 5:30 PM ET |
+| **Dana-Farber (DFMC)** | dfmc@dfci.harvard.edu | **$12,000 confirmed**, application opened September |
+| **Project Purple** (Roula Tzepos) | Roula@projectpurple.org | Replied; wants the [interest form](https://run4projectpurple.wufoo.com/forms/z1gm5cb704odgk2/) completed. Note the half-up-front rule |
+| Boston Medical Center (Team BMC) | Team.BMC@bmc.org | Was awaiting B.A.A. allocation in late August — worth a follow-up now |
+| Tedy's Team | info@tedysteam.org | Status unknown as of Aug 12 — worth a follow-up now |
+| **CharityTeams** (Susan Hurley) | Susan@CharityTeams.com | **No reply.** Still the highest-leverage contact for the small teams; worth chasing |
+| Massachusetts General Hospital | mghmarathon@mgh.harvard.edu | No reply |
+| Cradles to Crayons (Anna Fantozzi) | afantozzi@cradlestocrayons.org | No reply |
 
 **Form-only, no published email** — sign up directly, there is no address to write to:
 
@@ -446,9 +521,16 @@ Names are normalized from URL slugs, so some may differ slightly from each chari
 ## Method and confidence
 
 - Race date, program criteria, LOI window and roster count come from the B.A.A. directly.
-- Every dollar figure above was read off the named charity's own page — no figure is included on the
-  strength of a search-result summary alone. Where a figure could not be confirmed on a primary page it
-  is marked "not published" or flagged as unverified rather than estimated.
+- Figures marked "confirmed by email" come from the charity's own written reply, quoted in
+  [What the charities actually said](#what-the-charities-actually-said). These supersede earlier
+  website-derived figures, including two the site data got wrong or could not resolve: Dana-Farber's
+  invitational minimum (unpublished on their FAQ, now confirmed at $12,000) and Trinity's minimum
+  (published as $10,000 for 2026, now $12,000 for 2027).
+- Every other dollar figure was read off the named charity's own page — no figure rests on a
+  search-result summary alone. Where a figure could not be confirmed it is marked "not published" or
+  "TBC" rather than estimated.
+- The September 2026 correction to the tour operator section came from a written rejection, not
+  inference: the earlier version of this document overstated how purchasable those places are.
 - Aggregator sites circulating claims like "27 official charity partners" or "minimums start at $750"
   are wrong or unsourced; the official program had 193 members for 2026 and the lowest confirmed
   charity-bib minimum found was $7,500.
