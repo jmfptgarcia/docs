@@ -20,10 +20,10 @@ plus $250 B.A.A. Official Charity Program fee," a charge that applies only to ch
 
 | Route | Your cash cost | Availability | Verdict |
 | --- | --- | --- | --- |
-| **1. Qualify (BQ) for 2028** | Entry fee only (~$260–390) | Window **already open** since Sept 19, 2026, through Registration Week Sept 2027 | **By far the cheapest — if your age band is reachable.** See below |
-| **2. AbbottWMM draw for 2028** | **Free to enter**; you pay the entry fee only if selected | Re-enter ~Aug 2027; you hold 5 stars so you qualify | **A free lottery ticket. No reason not to take it** |
-| **3. Tour operator** | €700 (Endeavor) or CHF 950 (Albis) for the bib + a hotel package you must buy | Rationed by booking history; Sports Tours declined you for 2027 | Realistic fallback, but apply very early |
-| **4. Charity bib** | **$640 B.A.A. + ~$100 team fee**, plus an $8,500–$25,000 fundraising liability | Open now for 2027 | Cheapest fundraising floor found: **$8,500** |
+| **1. AbbottWMM draw for 2028** | **Free to enter**; charged only if selected | Re-enter ~Aug 2027; 5 stars and no Boston = eligible | **Take it. Losing costs nothing** |
+| **2. Tour operator** | €700 (Endeavor) / CHF 950 (Albis) for the bib, plus a hotel package you must buy | Rationed by booking history; Sports Tours declined you for 2027 | **The cheapest route you can actually control** |
+| ~~Qualify (BQ) for 2028~~ | ~~Entry fee only~~ | Window open since Sept 19, 2026 | **Ruled out — needs 3:20:00, i.e. 25 min off your PR.** See below |
+| **3. Charity bib** | **$640 B.A.A. + ~$100 team fee**, plus an $8,500–$25,000 fundraising liability | Open now for 2027 | Cheapest fundraising floor found: **$8,500** |
 | **B.A.A. Climate Crew** | $1,500 | Requires you to **already hold an entry** | Not an entry route — an add-on |
 | **B.A.A. Gives Back Team** | Minimum not published | **2027 closed** (notified Oct 31, 2026); **2028 interest form is live** | Worth joining the 2028 list |
 
@@ -50,9 +50,33 @@ Your marathon PR is **3:45:01** (April 2024); 2025 went 3:46:38 then 3:52:55, an
 | **65–69** | **4:05** | **3:59:30** | **already inside by 14:29** |
 | 70–74 | 4:20 | 4:14:30 | already inside by 29:29 |
 
-**The honest read:** if you are 60 or over, qualifying is the cheapest route by an order of magnitude and
-is within touching distance of a PR you have already run. If you are 55–59 it needs ~20 minutes, which
-is hard but not absurd. Under 55, it is not a 2028 plan.
+### Resolved: born 13 March 1978 → age 50 on race day → 50–54 band
+
+Confirmed against the B.A.A.'s own qualifying page, which states the standards are set by "each athlete's
+age on the date of the … 2028 Boston Marathon (April 17, 2028)." Turning 50 five weeks before race day
+is worth 5 minutes: the 50–54 standard is **3:20:00**, against 3:15:00 for 45–49.
+
+| Target | Time needed | Gap from 3:45:01 |
+| --- | --- | --- |
+| **Guaranteed acceptance** (standard − 5:17 cut-off) | **3:14:43** | **−30:18** |
+| **Bare standard** — qualifies to apply, and enters the random selection | **3:20:00** | **−25:01** |
+
+There is a second chance inside qualifying that is worth knowing about: qualifiers who hit the standard
+but are not faster than the cut-off go into the **Boston Qualifier Selection**, a random draw of roughly
+1,000 places. So a flat 3:20:00 is not wasted — it buys a lottery ticket rather than a place. For scale,
+the 2027 cut-off was **5:17** and **8,019 qualifiers were not accepted** against a 30,000 field.
+
+**Verdict: qualifying is not a 2028 route.** A bare 3:20:00 is 25 minutes off your PR, and even your
+half-marathon-implied ceiling of ~3:28 sits eight minutes above it. The honest conclusion is that the
+cheapest route is *not* available to you, and the decision is between a free lottery and ~CHF 950.
+
+The age-band treadmill does not rescue this either: you stay in 50–54 through Boston 2032, and the 55–59
+standard (3:30, so ~3:24:43 to be safe) first applies at Boston 2033 — by which time age-related decline
+roughly offsets the looser standard. Chasing a band is not a plan.
+
+One course note if you ever do chase a qualifier: net-downhill courses carry a time penalty — +5:00 for
+1,500–2,999 ft of drop, +10:00 for 3,000–5,999 ft, and 6,000 ft or more is not accepted at all. Flat,
+fast and legal (Valencia, Berlin, Seville) beats a fast-looking downhill course.
 
 One encouraging signal: a 1:39:56 half predicts roughly a **3:28** marathon, about 17 minutes faster
 than your PR. That gap usually means marathon-specific endurance and pacing, not raw speed, is the
@@ -195,15 +219,16 @@ have a B.A.A. entry and join the team voluntarily, usually at a much lower minim
 
 **For the 2028 lowest-cost goal**, in order:
 
-1. **Treat your next marathon as a qualifying attempt.** The 2028 window is already open. If your age
-   band is 60+, this is the whole problem solved for the price of an entry fee.
-2. **Join the B.A.A. Gives Back 2028 interest form.** 2027 is closed, the minimum is unpublished, and
-   the B.A.A.'s own team is worth knowing the number for.
-3. **Re-enter the AbbottWMM draw** when it opens around August 2027. It is free; losing costs nothing.
-4. **Apply to a tour operator early** — Albis Reisen (CHF 950 for the bib, Swiss) or Endeavor (€700,
-   covers Portugal). Build booking history now, since that is explicitly how Boston places are
-   allocated.
-5. **Keep the charity route as the fallback** and aim at the $8,500–$10,000 teams, not the marquee ones.
+1. **Re-enter the AbbottWMM draw** when it opens around August 2027. Free, and you are eligible on 5
+   stars. Before then, claim every star in the Runner Portal — including Sydney 2027 once you run it —
+   since the Six Star drawing is gated on a complete, current profile.
+2. **Apply to a tour operator as early as possible** — Albis Reisen (CHF 950 for the bib, Swiss, and it
+   explicitly reserves "ein kleines Kontingent" for runners who miss the standard) or Endeavor (€700,
+   covers Portugal). Boston places are allocated on booking history, so the Sydney 2027 trip is worth
+   booking through whichever operator you intend to ask for Boston.
+3. **Join the B.A.A. Gives Back 2028 interest form.** The B.A.A.'s own team does not publish a minimum,
+   so it is the one unknown that could undercut $8,500.
+4. **Keep the charity route as the fallback** and aim at The James Gang ($8,500), not the marquee teams.
 
 Below: the original 2027 steps, still valid if you decide to go this year after all.
 
