@@ -12,6 +12,82 @@ each charity's own site (linked per row), and email replies from the teams thems
 
 ---
 
+## Increasing your draw odds (November 2026)
+
+Correction to the earlier tour-operator section, on the operator's own account: the national operators'
+Boston allocations are small, go to long-standing repeat customers first, and are expensive in absolute
+terms. The published CHF 950 bib premium is real but academic if the allocation never reaches you, and
+the bib cannot be bought without the package. Sports Tours International, where the booking history
+actually sits, stated outright that its successful 2027 Boston runners had travelled with it on nine or
+more events. Treat operators as one lottery among several, not as a purchase.
+
+### Live now: the Global Run Club "Win a Bib Challenge" — free, and for Boston 2027
+
+Per AbbottWMM's November 21, 2026 newsletter: *"Global Run Club is giving runners the chance to win a
+place at either the 2027 Boston Marathon presented by Bank of America or Sanlam Cape Town Marathon. Join
+Global Run Club, register for the Win a Bib Challenge, select your preferred race and complete 75 miles
+between November 15 and December 12 for your chance to win."* And crucially: *"Already been running?
+Miles covered since November 15 count towards your challenge total."*
+
+| | |
+| --- | --- |
+| Requirement | **75 miles (120.7 km)**, Nov 15 – Dec 12, 2026 |
+| Progress as of Nov 21 | **45.8 km / 28.5 mi** (three runs: 21.7 + 12.0 + 12.0) |
+| Still needed | **74.9 km / 46.6 mi in 21 days** |
+| Realistic? | Yes — current volume is ~46 km/week, and a December Valencia start is 42 km on its own |
+| Cost | Free |
+| Link | https://grc.worldmarathonmajors.com/events/2026-win-a-bib-challenge |
+
+Register first, so the back-dated miles count, and **select Boston, not Cape Town** — Cape Town is
+obtainable by other means, Boston is not. Sync the tracker/device in the GRC app so the runs register.
+The challenge page is JavaScript-rendered and could not be read directly, so confirm the fine print
+(winner count, eligibility, whether extra miles mean extra entries) inside the app.
+
+### Gold Club — probably the best odds per franc, and the window opens in December
+
+The Gold Club page states membership is **$449/year**, auto-renewing and **capped**, and that
+member-only race draws *"provide 50 entries to each of the Majors races"* — while warning that *"entry
+into the Majors is not guaranteed through the Gold Club."* Registration *"will open in December for the
+following year membership,"* and a waitlist is open now.
+
+Why this is interesting: 50 Boston places drawn from a **capped** member pool is a far better ratio than
+~150 places drawn from the open draw's tens of thousands. The denominator is unpublished, so the odds
+cannot be calculated — but at $449 against an $8,500 fundraising floor or a ~CHF 2,700 travel package,
+it is the cheapest way found to buy *better odds* rather than a place. Join the waitlist now; the
+decision point is weeks away.
+
+### Global Run Club is itself a draw-entry engine
+
+The GRC page lists, as member benefits, *"Chance to win entry into an Abbott World Marathon Major"* and —
+directly to the point — *"Increase your chances in the Abbott World Marathon Majors race draws,"* adding
+*"don't miss your chance to earn draw entries."* So completing challenges year-round accumulates draw
+entries rather than just badges. This is the structural answer: be an active GRC member continuously,
+not just when a Boston draw opens.
+
+### Widen the number of independent lotteries
+
+| Lever | Why it adds a shot | Cost |
+| --- | --- | --- |
+| **GRC Win a Bib Challenge** | Live now, Boston-specific | Free |
+| **Gold Club member draws** | 50 entries per Major, capped pool | $449/yr |
+| **Main AbbottWMM Boston draw** | Re-enter ~Aug 2027 for 2028; 4+ stars and no Boston = eligible | Free |
+| **Marathon Tours & Travel** | AbbottWMM's *official* travel partner, with an allocation **separate** from the national operators — and not gated on Swiss or Iberian booking history | Package |
+| **Iberian operators** | A Portuguese passport may open Endeavor (Spain + Portugal), Geosport, Marathinez, Sportravel — channels independent of your Swiss history | Package |
+| **Sports Tours International** | Where your booking history already is; keep building it | Package |
+
+Two structural points in your favour:
+
+1. **Boston is mandatory for the Six Star medal**, so you cannot complete it elsewhere. Cape Town joining
+   as the eighth Major does not substitute. That keeps you permanently inside the "Six Star hopeful"
+   priority pool that operators and AbbottWMM draws both favour.
+2. **You have trips to spend.** Sydney 2027 is booked and Cape Town 2027 was under discussion. Booking
+   those through whichever operator you intend to ask for Boston converts travel you are doing anyway
+   into the exact currency — booking history — that operators say decides Boston allocation.
+
+Housekeeping that gates eligibility: claim every star in the Runner Portal and keep the profile current.
+
+---
+
 ## Cheapest route in, ranked
 
 Cash cost to you, ignoring travel you would pay anyway. The 2027 charity bib carries **$640 in B.A.A.
