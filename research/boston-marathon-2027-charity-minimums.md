@@ -1,10 +1,68 @@
-# Boston Marathon 2027 — Minimum Charity Fundraising Amounts
+# Boston Marathon — Cheapest Route In, and Every Published Charity Minimum
 
 **Race:** 131st Boston Marathon presented by Bank of America — **Monday, April 19, 2027**
-**Compiled:** July 25, 2026 · **Updated:** September 26, 2026 — figures now confirmed by direct
-correspondence with the charities; see [What the charities actually said](#what-the-charities-actually-said).
+**Compiled:** July 25, 2026 · **Updated:** November 21, 2026
+**Goal:** enter Boston — 2028 if that is cheaper than 2027 — at the lowest possible cost, as a
+non-qualifier with five AbbottWMM stars who needs Boston for the sixth.
+**Coverage:** all **215** organizations in the 2027 Official Charity Program were swept; **63** publish a
+figure that could be confirmed. Figures also confirmed by direct correspondence; see
+[What the charities actually said](#what-the-charities-actually-said).
 **Primary source:** [B.A.A. Boston Marathon Charity page](https://www.baa.org/races/boston-marathon/charity/),
 each charity's own site (linked per row), and email replies from the teams themselves.
+
+---
+
+## Cheapest route in, ranked
+
+Cash cost to you, ignoring travel you would pay anyway. The 2027 charity bib carries **$640 in B.A.A.
+fees**, not $390 — Dana-Farber's page itemises "$390 Boston Athletic Association invitational entry fee
+plus $250 B.A.A. Official Charity Program fee," a charge that applies only to charity entries.
+
+| Route | Your cash cost | Availability | Verdict |
+| --- | --- | --- | --- |
+| **1. Qualify (BQ) for 2028** | Entry fee only (~$260–390) | Window **already open** since Sept 19, 2026, through Registration Week Sept 2027 | **By far the cheapest — if your age band is reachable.** See below |
+| **2. AbbottWMM draw for 2028** | **Free to enter**; you pay the entry fee only if selected | Re-enter ~Aug 2027; you hold 5 stars so you qualify | **A free lottery ticket. No reason not to take it** |
+| **3. Tour operator** | €700 (Endeavor) or CHF 950 (Albis) for the bib + a hotel package you must buy | Rationed by booking history; Sports Tours declined you for 2027 | Realistic fallback, but apply very early |
+| **4. Charity bib** | **$640 B.A.A. + ~$100 team fee**, plus an $8,500–$25,000 fundraising liability | Open now for 2027 | Cheapest fundraising floor found: **$8,500** |
+| **B.A.A. Climate Crew** | $1,500 | Requires you to **already hold an entry** | Not an entry route — an add-on |
+| **B.A.A. Gives Back Team** | Minimum not published | **2027 closed** (notified Oct 31, 2026); **2028 interest form is live** | Worth joining the 2028 list |
+
+Note the shape of this: the *cash* cost of a charity bib (~$740) is in the same range as a tour operator
+bib. The entire difference is the fundraising liability on top.
+
+---
+
+## Can you qualify? What your Strava says
+
+Your marathon PR is **3:45:01** (April 2024); 2025 went 3:46:38 then 3:52:55, and your half PR is
+**1:39:56** (April 2025). The 2028 standards are **unchanged from 2027**, and the 2027 cutoff ran
+**5:17 faster than the standard** — so the realistic target is the standard minus about 5:30.
+
+| Age on race day (April 17, 2028) | Standard | Realistic target | Gap from your 3:45:01 |
+| --- | --- | --- | --- |
+| 18–34 | 2:55 | 2:49:30 | −55:31 |
+| 35–39 | 3:00 | 2:54:30 | −50:31 |
+| 40–44 | 3:05 | 2:59:30 | −45:31 |
+| 45–49 | 3:15 | 3:09:30 | −35:31 |
+| 50–54 | 3:20 | 3:14:30 | −30:31 |
+| 55–59 | 3:30 | 3:24:30 | −20:31 |
+| **60–64** | **3:50** | **3:44:30** | **−0:31 — essentially there already** |
+| **65–69** | **4:05** | **3:59:30** | **already inside by 14:29** |
+| 70–74 | 4:20 | 4:14:30 | already inside by 29:29 |
+
+**The honest read:** if you are 60 or over, qualifying is the cheapest route by an order of magnitude and
+is within touching distance of a PR you have already run. If you are 55–59 it needs ~20 minutes, which
+is hard but not absurd. Under 55, it is not a 2028 plan.
+
+One encouraging signal: a 1:39:56 half predicts roughly a **3:28** marathon, about 17 minutes faster
+than your PR. That gap usually means marathon-specific endurance and pacing, not raw speed, is the
+limiter — the kind of thing that responds to training. The caveat is that the half is 18 months old and
+your 2025 marathons trended slower, so current fitness is probably below PR.
+
+**Timing you may already be sitting on:** the 2028 qualifying window opened September 19, 2026, so any
+marathon from now until Registration Week in September 2027 counts — including a December 2026 Valencia
+start, if that booking in your email is still on. Valencia is one of the fastest courses in the world,
+which makes it a far better qualifying attempt than most.
 
 ---
 
@@ -134,6 +192,22 @@ have a B.A.A. entry and join the team voluntarily, usually at a much lower minim
 ---
 
 ## What to do next
+
+**For the 2028 lowest-cost goal**, in order:
+
+1. **Treat your next marathon as a qualifying attempt.** The 2028 window is already open. If your age
+   band is 60+, this is the whole problem solved for the price of an entry fee.
+2. **Join the B.A.A. Gives Back 2028 interest form.** 2027 is closed, the minimum is unpublished, and
+   the B.A.A.'s own team is worth knowing the number for.
+3. **Re-enter the AbbottWMM draw** when it opens around August 2027. It is free; losing costs nothing.
+4. **Apply to a tour operator early** — Albis Reisen (CHF 950 for the bib, Swiss) or Endeavor (€700,
+   covers Portugal). Build booking history now, since that is explicitly how Boston places are
+   allocated.
+5. **Keep the charity route as the fallback** and aim at the $8,500–$10,000 teams, not the marquee ones.
+
+Below: the original 2027 steps, still valid if you decide to go this year after all.
+
+---
 
 The waiting phase is over. Ranked by urgency:
 
@@ -314,7 +388,111 @@ list above now, then work down the roster in October once allocations are known.
 
 ---
 
-## Appendix: the 193-member 2026 Official Charity Program roster
+## Appendix A: every confirmed 2027 minimum (automated sweep of all 215 charities)
+
+Method: pulled all 215 charity records from the B.A.A.'s own charity API, fetched each organization's
+site plus its Boston Marathon pages and common marathon URL paths (1,195 pages in total), then extracted
+dollar amounts appearing next to an explicit minimum/commitment phrase. **63 of 215 publish a figure that
+survived checking.** The remaining 152 either publish no number, gate it behind an application, or render
+it in JavaScript the sweep could not read.
+
+This is a machine sweep that I spot-checked, not 215 individually verified readings. Confirm the figure
+with the charity before committing. Corrections already applied by hand, as examples of what the sweep
+got wrong: 261 Fearless's $4,261 is their **New York** figure; Homes For Our Troops' $7,500 sits on a
+page whose deadline reads "April 1, **2017**"; and EMPath's $16,000 is the 2026 team *average*, not its
+$10,000 minimum.
+
+"Charity bib" = they provide the entry. "Own bib" = you already hold an entry and join voluntarily.
+
+| Charity | Charity bib | Own bib | Notes |
+| --- | --- | --- | --- |
+| [MetroWest YMCA](https://www.metrowestymca.org/) | **$8,500** | — | **Massachusetts residents only** — not open to overseas runners |
+| [The James Gang](http://www.teamjamesgang.com) | **$8,500** | — | + $375 B.A.A. fee quoted; confirm this is the 2027 cycle |
+| [Stride for Stride](https://www.strideforstride.com/boston-marathon-charity-bibs) | **$9,750** | — | charity bibs **sold out** for 2027 |
+| [Boston Medical Center](https://development.bmc.org/) | **$10,000** | $2,500 |  |
+| [Brittany Fund for Trauma and Recovery](http://Brittanyfund.org) | **$10,000** | $1,500 |  |
+| [Caring for a Cure](https://www.mgbevents.org/bostonmarathon) | **$10,000** | $1,000 |  |
+| [Economic Mobility Pathways](https://empathways.org/boston-marathon-2027) | **$10,000** | — | $16,000 on page is the 2026 team *average*, not the minimum |
+| [FamilyAid](https://familyaidboston.org/) | **$10,000** | — |  |
+| [Fenway Health](http://www.fenwayhealth.org) | **$10,000** | $1,500 |  |
+| [Fisher House Boston](https://fisherhouseboston.org) | **$10,000** | $3,000 |  |
+| [Mass Eye & Ear](https://www.mgbevents.org/bostonmarathon) | **$10,000** | $1,000 |  |
+| [Mass General Brigham Cancer Institute](https://www.mgbevents.org/bostonmarathon) | **$10,000** | $1,000 |  |
+| [Massachusetts General Hospital](https://giving.massgeneralbrigham.org/en/events/boston-marathon) | **$10,000** | $1,000 |  |
+| [Massachusetts Society for the Prevention of Cruelty to Children](https://www.mspcc.org) | **$10,000** | — |  |
+| [MayeDay Family Foundation](https://www.mayeday.org/home-1-1) | **$10,000** | — |  |
+| [McLean Hospital](https://www.mgbevents.org/bostonmarathon) | **$10,000** | $1,000 |  |
+| [Nativity Preparatory School of Boston](https://www.nativityboston.org) | **$10,000** | $2,500 |  |
+| [Newton-Wellesley Hospital](https://www.mgbevents.org/bostonmarathon) | **$10,000** | $1,000 |  |
+| [Spaulding Rehabilitation](https://www.mgbevents.org/bostonmarathon) | **$10,000** | $1,000 |  |
+| [Tedy's Team](http://www.tedysteam.org) | **$10,000** | $6,000 | 2026 figure; own-bib $6,000 |
+| [The Gillian Reny Stepping Strong Center for Trauma Innovation](https://www.mgbevents.org/bostonmarathon) | **$10,000** | $1,000 |  |
+| [Walker, Inc.](https://www.walkercares.org/RunningForWalker) | **$10,000** | — |  |
+| [Dana-Farber Cancer Institute](https://danafarber.jimmyfund.org/site/TR?fr_id=2680&#038;pg=entry) | **$12,000** | $4,000 | confirmed by email; + $640 B.A.A. fees and $85 team fee |
+| [Free to Run](https://www.freetorun.org/boston) | **$12,000** | — |  |
+| [Multiple Myeloma Research Foundation](https://www.themmrf.org) | **$12,000** | — |  |
+| [Project HOPE Boston](http://www.prohope.org) | **$12,000** | — |  |
+| [Trinity Boston Connects](https://trinityconnects.org/) | **$12,000** | $4,000 | confirmed by email; $15,000 gets priority; $4,000 milestone by Dec 20 |
+| [BCNC(Boston Chinatown Neighborhood Center)](https://bcnc.net/forms-and-applications/boston-marathon-2027-application/) | **$12,500** | — |  |
+| [Beth Israel Lahey Health (BILH)](https://give.bilh.org/page/1003153/data/1) | **$12,500** | $2,000 |  |
+| [Boys & Girls Clubs of Boston](https://pages.bgcb.org/boston-marathon-2027?hs_preview=UgeRrCWV-180549166080) | **$12,500** | — |  |
+| [Camp Shriver](http://www.umb.edu/CampShriverRuns) | **$12,500** | — |  |
+| [DetecTogether](https://www.detectogether.org/) | **$12,500** | $3,000 |  |
+| [Lingzi Foundation, Inc.](https://lingzifoundation.org/) | **$12,500** | $3,000 |  |
+| [Make-A-Wish Massachusetts and Rhode Island](https://www.massri.wish.org/bostonmarathon) | **$12,500** | $2,500 |  |
+| [Massachusetts Association for the Blind and Visually Impaired](https://www.mabvi.org) | **$12,500** | — |  |
+| [The Born To Run Foundation](https://theborntorunfoundation.org) | **$12,500** | $3,000 |  |
+| [The Cam Neely Foundation](https://www.camneelyfoundation.org) | **$12,500** | $3,000 |  |
+| [MEB Foundation](http://www.mebfoundation.org) | **$13,000** | $3,000 |  |
+| [The Hoyt Foundation](https://teamhoyt.com/) | **$13,000** | $3,000 |  |
+| [Camp Casco](https://www.campcasco.org) | **$14,000** | $2,000 |  |
+| [Herren Project](https://www.herrenproject.org) | **$14,000** | — | pages inconsistent ($12,000 page references the 2024 race) — verify |
+| [Achilles International - Boston](https://www.achillesinternational.org/boston-marathon-charity-slots) | **$15,000** | — |  |
+| [American Heart Association](http://www.heart.org/bostonmarathon) | **$15,000** | — |  |
+| [American Red Cross](https://www.redcross.org/local/massachusetts/about-us/our-work/team-red-cross.html?srsltid=AfmBOoosOD2aqG3JP3mben-hapwJlliBUW488OlR26nT9Z-ZOlgbr_HH) | **$15,000** | $4,000 |  |
+| [Bionic Project, Inc.](http://www.bionicproject.org) | **$15,000** | — |  |
+| [Charles River Watershed Association](http://crwa.org) | **$15,000** | — |  |
+| [Esplanade Association](https://www.esplanade.org) | **$15,000** | $3,000 |  |
+| [Girls in Gear](https://www.girlsingear.org/boston-marathon) | **$15,000** | — |  |
+| [Girls on the Run Greater Boston](https://www.girlsontherunboston.org/) | **$15,000** | — |  |
+| [Light Foundation](http://www.mattlight72.com) | **$15,000** | $5,000 |  |
+| [Marathon Kids, Inc.](https://www.marathonkids.org) | **$15,000** | $5,000 |  |
+| [Matt Brown Foundation](http://mattbrownfoundation.org) | **$15,000** | $3,000 |  |
+| [National Ovarian Cancer Coalition](https://ovarian.org/get-involved/fundraise-for-ovarian-cancer/team-teal/) | **$15,000** | — |  |
+| [One World Strong Foundation](https://www.oneworldstrong.org/) | **$15,000** | $3,000 |  |
+| [Rebekah's Angels](https://www.rebekahsangels.org) | **$15,000** | $2,000 |  |
+| [The Progeria Research Foundation](https://www.progeriaresearch.org) | **$15,000** | — |  |
+| [Urban League of Eastern Massachusetts](https://www.ulem.org/) | **$15,000** | $3,000 |  |
+| [Vanessa T. Marcotte Foundation](https://www.vtmf.org) | **$15,000** | $2,000 |  |
+| [Pedro Martinez Foundation](https://pedromartinezfoundation.com/) | **$17,000** | $5,000 |  |
+| [50 Legs](https://50legs.org/) | **$20,000** | $2,500 |  |
+| [Christopher & Dana Reeve Foundation](https://www.christopherreeve.org/events) | **$20,000** | $15,000 |  |
+| [Silver Lining Mentoring](https://www.silverliningmentoring.org/) | **$20,000** | — |  |
+| [Project Purple](https://www.projectpurple.org/) | **$25,000** | — | from a guessed page; was $15,000 for 2026 — verify, may be another event |
+
+### What this tells you
+
+- **The floor for a non-qualifier is $8,500**, and only two teams are there. **The James Gang** ($8,500 +
+  $375 B.A.A. fee) is the one open to you — **MetroWest YMCA** is also $8,500 but states it is "no longer
+  accepting applications from runners who reside outside of Massachusetts."
+- **Stride for Stride** at $9,750 would be next, but its 2027 charity bibs are **sold out**.
+- The realistic band is **$10,000–$12,500**; the median of all 63 is **$12,500**.
+- **$15,000 is now common** (16 of 63 teams), and the ceiling is Project Purple, whose application page
+  shows **$25,000** — up from $15,000 for 2026, so worth verifying.
+- Smaller charities are **not** reliably cheaper. The cheap outliers are small, but so are many of the
+  $15,000 teams. The hoped-for pattern of "small charity, small minimum" does not really hold.
+- If you qualify, own-bib minimums collapse to **$1,000** at the Mass General Brigham-system teams
+  (Mass Eye & Ear, MGH, McLean, Newton-Wellesley, Spaulding, Stepping Strong) — though their 2027
+  charity-bib applications are closed.
+
+---
+
+## Appendix B: the 2026 Official Charity Program roster (193 members)
+
+Superseded by the 2027 program, which the B.A.A. announced on September 15, 2026 with a record **215
+organizations** — 22 of them first-timers, up from 160 in 2024. The 2026 program raised a record
+**$57.3 million**, and more than $675 million has been raised since 1989. The 2026 list is kept here for
+year-over-year comparison.
 
 The 2027 roster is not out yet. Historically the list changes only modestly year to year, so this is the
 practical shortlist of organizations to contact. Derived from the B.A.A.'s charity directory
